@@ -1,11 +1,16 @@
 {
   "expo": {
-    "name": "task1",
-    "slug": "task1",
+    "name": "MUSICAPP",
+    "slug": "musicapp",
     "version": "1.0.0",
+    "splash":{
+      "image":"./assets/logo.png"
+    },
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": "",
+    "githubUrl": "https://github.com/Ashir-zuhaib/musicApp"
   },
   "name": "task1"
 }
